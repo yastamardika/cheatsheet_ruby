@@ -1,0 +1,22 @@
+Mon, 07 Feb 2022 23:00:59 +0700
+access_sequence.rb	Sun, 06 Feb 2022 23:21:26 +0700
+arr_new.rb	Sun, 06 Feb 2022 23:06:54 +0700
+create_array.rb	Sun, 06 Feb 2022 23:02:56 +0700
+create_arrofstring.rb	Sun, 06 Feb 2022 23:04:42 +0700
+empty_nil.rb	Sun, 06 Feb 2022 23:41:17 +0700
+equality_inequality.rb	Mon, 07 Feb 2022 22:14:03 +0700
+extract_sequence.rb	Sun, 06 Feb 2022 23:18:55 +0700
+fetch_method.rb	Sun, 06 Feb 2022 23:14:55 +0700
+first_and_last.rb	Mon, 07 Feb 2022 21:20:28 +0700
+index_pos.rb	Sun, 06 Feb 2022 23:12:01 +0700
+intro_array.rb	Sun, 06 Feb 2022 22:56:25 +0700
+is_a.rb	Mon, 07 Feb 2022 22:32:03 +0700
+len_sz_count.rb	Sun, 06 Feb 2022 23:37:40 +0700
+overwrite_arr_element.rb	Sun, 06 Feb 2022 23:33:53 +0700
+pop.rb	Mon, 07 Feb 2022 21:50:09 +0700
+push_and_insert.rb	Mon, 07 Feb 2022 21:47:24 +0700
+range_to_arr.rb	Mon, 07 Feb 2022 22:22:14 +0700
+shift_unshift.rb	Mon, 07 Feb 2022 21:56:28 +0700
+slice.rb	Sun, 06 Feb 2022 23:27:06 +0700
+spaceship.rb	Mon, 07 Feb 2022 22:17:24 +0700
+values_at.rb	Sun, 06 Feb 2022 23:24:06 +0700

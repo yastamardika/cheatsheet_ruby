@@ -1,0 +1,9 @@
+p 5 <=> 5 # id same, result 0
+p 5 <=> 7 # if smaller, result -1
+p 9 <=> 7 # if greated, result 1
+p 9 <=> [7,3,5] # if different type, result nil
+p [7,3,5] <=> [7,3,5] # same
+p [7,3,5] <=> [7,3,10] 
+p [7,3,15] <=> [7,3,5] 
+p [7,3,15] <=> [7,3,5,10] 
+p [7,3,5] <=> [7,3,"10"] 
